@@ -19,6 +19,11 @@ The cards contain fluid animation which creates a satisfying motion while swappi
 
 
 
-## Demo
+## Screenshots
 
 ![](screenshots.png)
+
+## Demo
+
+![](demo1.gif)
+![](demo2.gif)
