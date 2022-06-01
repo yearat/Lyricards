@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "30098068680",
+    "firebase_url": "https://lyricsdaily-5fa5e.firebaseio.com",
+    "project_id": "lyricsdaily-5fa5e",
+    "storage_bucket": "lyricsdaily-5fa5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30098068680:android:8ea67271ded43912",
+        "android_client_info": {
+          "package_name": "com.beambo.lyricsdaily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30098068680-4256d49eobnt26m68gndo8vcfjfpc25a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beambo.lyricsdaily",
+            "certificate_hash": "73086e3f7e2f8e8e447507781679ff086aa9e18f"
+          }
+        },
+        {
+          "client_id": "30098068680-0qqqb9ubiqegsl7nmuvacrslp8f7kcug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjgZhQuMQc8zbkFqmiAsm8rYQsRvqEeQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30098068680-0qqqb9ubiqegsl7nmuvacrslp8f7kcug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
