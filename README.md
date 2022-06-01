@@ -21,5 +21,8 @@ The cards contain fluid animation which creates a satisfying motion while swappi
 
 ## Demo
 
-Insert gif or link to demo
+![](demo/icon.jpg)
+![](demo/logo_splash.jpg)
+![](demo/home.jpg)
+![](demo/card.jpg)
 
